@@ -1,8 +1,20 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
-	color: #FFFFFF
 }
+section {
+	padding:5em 0;
+}
+#intro {
+	background:purple;
+	color:#fff;
+	height:90vh;
+	padding:15em 0 0;
 
+}
+#what-we-do {
+	background:#333;
+	color:#fff;
+}
